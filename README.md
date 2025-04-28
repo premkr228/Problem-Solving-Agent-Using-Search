@@ -1,6 +1,6 @@
 # Problem-Solving-Agent-Using-Search
 
-Objective:
+## Objective:
 Design a robotic vacuum agent to find and stop at the dirtiest spot in a 2D grid using intelligent search techniques.
 
 🔎 Key Features:
