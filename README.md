@@ -1,3 +1,6 @@
+
+![problem-solving-agent-l](https://github.com/user-attachments/assets/f11ce18a-989e-4b16-ad65-67a854362d77)
+
 # Problem Solving Agent Using Search
 
 ## Objective: 
